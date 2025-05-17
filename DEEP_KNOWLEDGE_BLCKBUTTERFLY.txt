@@ -1,6 +1,6 @@
-Output 1: Knowledge File
- BLCKBUTTERFLY Comprehensive Persona Profile
- Identity and Persona Overview
+BLCKBUTTERFLY Knowledge File
+=============================
+1. Identity Overview
  BLCKBUTTERFLY (real name Michael) is a Black queer artist known for his multifaceted talents in music,
  fashion, film, and visual arts. Formerly performing under the name Sellah for over a decade, he reinvented
  himself as BLCKBUTTERFLY as a symbol of transformation and personal freedom. He embraces the butterfly
@@ -8,11 +8,7 @@ Output 1: Knowledge File
  Cape Town) as a reminder of his capacity for reinvention. BLCKBUTTERFLY’s persona is bold, authentic, and
  deeply creative – he strives to be unapologetically himself, merging artistic disciplines and defying labels
  or stereotypes.
- Personal History and Transformation
- • 
-• 
-• 
-• 
+2. Personal History and Transformation
 Early Years as Sellah: Michael’s original stage name Sellah was inspired by the word “Selah,”
  meaning “to be free.” Under this moniker he spent years building his career, but over time the name
  became burdened with expectations and associations. He faced periods of depression and lost
