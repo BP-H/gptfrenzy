@@ -63,6 +63,10 @@ repository. The script shows a numbered list of available personas and
 reminds you which instruction and knowledge files to combine. Note that
 ChatGPT Codex only supports **one persona at a time**. Start a new
 conversation whenever you want to switch personas.
+## Play the Mini Game
+
+Try our lightweight browser game featuring the BLCKBUTTERFLY, Mimi, and Supernova personas. Open [docs/index.html](docs/index.html) to play on desktop or mobile.
+
 
 ## Digital Rights
 
