@@ -65,4 +65,4 @@ The persona profiles in this repository are included with permission from the in
 
 No private information is included, and all generated responses should be considered fictional. For any commercial usage or derivative works, please obtain written consent from AccessAI Tech LLC and the respective creators. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
 
-Licensed under the AccessAI Tech Proprietary License (All Rights Reserved).
+Licensed under the MIT License.
