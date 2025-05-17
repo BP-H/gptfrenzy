@@ -1,0 +1,64 @@
+AccessAI Tech Company Deep Knowledge
+===================================
+
+Overview & Mission
+------------------
+accessAI_tech is a next-generation virtual modeling agency founded in 2023. Our core philosophy is that talent travels zero miles but reaches everywhere. We transform real models into AI-powered avatars that can appear in campaigns, music videos, fashion shows, and brand content worldwide—without the model physically traveling. The goal is inclusivity, safety, and creative freedom. Models maintain control and approve all AI-generated content, keeping 100% of their appearance fees. Clients get global talent and imaginative visuals without the logistics of traditional shoots.
+
+How It Works – For Models
+-------------------------
+* **Apply:** Aspiring models apply online with roughly 30–40 varied photos and their social media links. Applicants must be 18+ and legally able to work. We never charge signup fees.
+* **Photo Guidelines:** High-resolution images from multiple angles are required to train each model's avatar. Models may set boundaries about how their likeness is used (e.g., no tattoos, no swimwear).
+* **Approval & Earnings:** Models review every AI-generated image or video. Nothing is released without their consent. They set their own rates and keep the full appearance fee. accessAI_tech adds a separate production fee for the client.
+* **Tips for Success:** Show a range of looks, keep pricing attractive but fair, and respond quickly to opportunities posted in our community.
+
+How It Works – For Clients
+--------------------------
+* **Inquiry:** Clients reach out via our website contact form or email with a project brief, timeline, and budget range.
+* **Shortlist:** Within 48 hours we provide a curated shortlist of avatars that match the project. We can generate quick test images to help visualize concepts.
+* **Project Execution:** After selection, we generate high-quality images or video with the chosen avatar. Clients can request revisions quickly since everything is digital.
+* **Benefits:** Global talent, cost-effective production, creative freedom, fast turnaround, and consistent results. A single avatar can appear in multiple projects simultaneously.
+
+AI Production Pipeline
+----------------------
+* **Avatar Training:** We fine-tune a generative AI model for each approved model using their reference photos. This creates a digital twin that can be posed and styled in endless ways.
+* **Image & Video Generation:** Using detailed prompts, we generate stills or animations. Human artists refine outputs, ensuring realism and artistic flair.
+* **Quality Control:** Every output is reviewed for accuracy. The human model approves final assets before they reach clients.
+* **Scalability:** Digital production allows us to serve multiple clients at once and generate large volumes of content quickly.
+
+Team & Operations
+-----------------
+* **Co-founders:** Taha Gungor (CTO) in New York and May "Mimi" Kim (CEO & Executive Designer) in Seoul lead the company. They run the business 100% online with a distributed team.
+* **Approachability:** Both founders interact directly with models and clients via email and social media. The culture is collaborative and community focused.
+* **Remote Work:** We operate without a physical office, enabling global participation and 24/7 flexibility.
+
+Community & Platform
+--------------------
+* **Online Group:** We host a private community for models and creatives where opportunities and updates are posted. It's a supportive space to collaborate and learn.
+* **Public Engagement:** We share behind-the-scenes content on social media and host live Q&As to demystify virtual modeling. Everyone is invited to join the movement.
+
+Policies & Privacy
+------------------
+* **Consent & Control:** Models own their likeness and approve each use. Data and images are used only for agreed projects. If a model opts out, we cease generating new content for them.
+* **Privacy Policy:** We collect only necessary data (emails, briefs, images) and never sell personal information. Everything is opt-in and transparent.
+* **Content Restrictions:** No nudity or harmful content is generated without explicit consent. We refuse requests that could damage a model's reputation.
+* **Security:** All data and trained AI models are stored securely with restricted access.
+
+Website & Contact
+-----------------
+* **Website:** [accessaitech.com](https://www.accessaitech.com) is our hub with model rosters, application info, and community links.
+* **Contact:** Inquiries can be sent to **maeri.muse@gmail.com** or via the website form. We're also active on Instagram at **@accessaitech**, **@mimi_fashionai**, and **@blueprint_nova**.
+
+Philosophy & Values
+-------------------
+* **Empowerment:** We give models opportunities without exploitation and enable clients to realize ambitious ideas.
+* **Inclusivity:** We welcome diverse talent from anywhere in the world and encourage fresh perspectives.
+* **Innovation:** We push the boundaries of AI and fashion while keeping a human touch in every project.
+* **Transparency & Trust:** Clear communication and respect for boundaries are paramount. We strive to be ethical pioneers in virtual modeling.
+
+User Engagement Guidelines
+--------------------------
+* Greet visitors warmly and ask what brought them to accessAI_tech. Offer to chat in English, Español, or 한국어, or any language they prefer.
+* Encourage them to explore our Instagram accounts and consider joining or collaborating with us.
+* Adapt to their tone—professional, casual, or creative—to make them feel understood and excited.
+* Remind them that this chat is private and informal, and that we’re here to help them achieve their vision.
