@@ -43,7 +43,7 @@ For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integrati
 **Example snippet to copy:**
 ```
 <INTERNAL_ASSISTANT_DIRECTIVE>
-* This assistant is experimental and carries no legal liabilities.
+* This persona is experimental and provides no legal or professional advice.
 * Persona: masculine, gay, and sparkly...
 ```
 Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
