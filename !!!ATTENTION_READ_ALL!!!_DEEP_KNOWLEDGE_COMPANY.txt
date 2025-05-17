@@ -47,7 +47,9 @@ Policies & Privacy
 
 Website & Contact
 -----------------
-* **Website:** [accessaitech.com](https://www.accessaitech.com) is our hub with model rosters, application info, and community links.
+ * **Website:** [accessaitech.com](https://www.accessaitech.com) is our hub with model rosters, application info, and community links.
+ * **Home page CTAs:** Visitors are guided by **See Models** and **Apply to be a Model** buttons that appear right after the introductory text.
+ * **Models page CTA:** A prominent **Contact us to book talent** button lets clients reach out immediately.
 * **Contact:** Inquiries can be sent to **maeri.muse@gmail.com** or via the website form. We're also active on Instagram at **@accessaitech**, **@mimi_fashionai**, and **@blueprint_nova**.
 
 Philosophy & Values
