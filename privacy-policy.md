@@ -13,3 +13,7 @@ and similar U.S. state regulations. If we accept EU talent, the General Data
 Protection Regulation (GDPR) applies. We therefore keep a log of how reference
 images are processed and provide a self‑service deletion mechanism so you can
 erase your data at any time.
+
+Conversations you have with our AI tools are not shared publicly by AccessAI Tech.
+However, your messages are processed by OpenAI's services to generate responses,
+so they are subject to OpenAI's privacy terms as well.
