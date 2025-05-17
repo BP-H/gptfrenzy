@@ -2,6 +2,9 @@
 
 This repository contains several persona prompts and deep knowledge files used for building specialized assistants. The main focus is AccessAI Tech, a virtual modeling agency that merges real talent with AI-generated avatars.
 
+*Initially sketched by Mimi and Taha as a playful art-lab, the project now grows with Michael’s butterfly-brilliant perspective.  
+Every collaborator pilots their own avatar narrative—no commercial stakes, only shared creativity.*
+
 **Important:** Always load the matching `*_DEEP_KNOWLEDGE_*.txt` file together with its instruction file. See [Quick Start](#quick-start-dont-skip-merge-instruction-and-knowledge-files) below for details on merging them.
 
 **Disclaimer:** This project is a personal experiment. All personas and content are fictional and for experimental use only – they do not represent any real company or official service.
