@@ -88,4 +88,8 @@ We keep a simple data-processing log and offer a self-service deletion tool so m
 
 Try our lightweight browser game for a nostalgic touch of pixel art. Open [docs/mini_game.html](docs/mini_game.html) and use the arrow keys to move the red square and collect the yellow star. Works in modern desktop and mobile browsers.
 
-Licensed under the MIT License.
+## License
+
+All source code in this repository is released under the [MIT License](LICENSE).
+
+The persona instruction files and deep knowledge files are provided with permission from the individuals portrayed. They may be used for non-commercial purposes only unless you obtain explicit permission from the respective creators.
