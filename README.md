@@ -72,4 +72,8 @@ No private information is included, and all generated responses should be consid
 
 We keep a simple data-processing log and offer a self-service deletion tool so models can remove their photos and trained avatars at any time. See [privacy-policy.md](privacy-policy.md) for details. An example popup form for requesting deletion is provided in [docs/deletion_popup_example.html](docs/deletion_popup_example.html). You can link to this page from a custom GPT assistant or embed the snippet in your own site.
 
+## Play the Mini Game
+
+Try our lightweight browser game for a nostalgic touch of pixel art. Open [docs/mini_game.html](docs/mini_game.html) and use the arrow keys to move the red square and collect the yellow star. Works in modern desktop and mobile browsers.
+
 Licensed under the MIT License.
