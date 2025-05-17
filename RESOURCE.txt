@@ -1,6 +1,5 @@
 ## Official AccessAI Resources
-These links cover AccessAI Tech only. Taha also collaborates with his friend Michael "BLCKBUTTERFLY" Sellah on personal art projects that are not part of the company.
-
+These links cover AccessAI Tech only.
 * **Corporate hub**: https://www.accessaitech.com
   * `/models` — join the talent roster
   * `/about` — learn the vision
