@@ -65,7 +65,15 @@ ChatGPT Codex only supports **one persona at a time**. Start a new
 conversation whenever you want to switch personas.
 ## Play the Mini Game
 
-Try our lightweight browser game featuring the BLCKBUTTERFLY, Mimi, and Supernova personas. Open [docs/index.html](docs/index.html) to play on desktop or mobile.
+Try our lightweight browser game featuring the BLCKBUTTERFLY, Mimi, and Supernova personas. You can play it directly below or open it in a new tab.
+
+<div align="center">
+  <iframe src="docs/index.html?raw=1" width="340" height="360" title="GPT Frenzy Mini Game"></iframe>
+</div>
+
+[Play full screen](docs/index.html)
+
+If the game does not load inside the frame due to GitHub restrictions, use the link above.
 
 
 ## Digital Rights
