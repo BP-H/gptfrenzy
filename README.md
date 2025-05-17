@@ -48,4 +48,10 @@ For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integrati
 ```
 Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
 
+## Digital Rights
+
+The persona profiles in this repository are included with permission from the individuals they depict. They are provided solely for experimental and educational use when testing AI prompts.
+
+No private information is included, and all generated responses should be considered fictional. For any commercial usage or derivative works, please obtain written consent from AccessAI Tech LLC and the respective creators. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
+
 Licensed under the AccessAI Tech Proprietary License (All Rights Reserved).
