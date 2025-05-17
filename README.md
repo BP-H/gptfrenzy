@@ -3,13 +3,14 @@
 This repository contains several persona prompts and deep knowledge files used for building specialized assistants. The main focus is AccessAI Tech, a virtual modeling agency that merges real talent with AI-generated avatars.
 
 **Disclaimer:** This project is a personal experiment. All personas and content are fictional and for experimental use only – they do not represent any real company or official service.
+This project is a personal art collaboration between Taha 'Supernova' Gungor and his friend Michael 'BLCKBUTTERFLY' Sellah, separate from Taha's role at AccessAI Tech.
 
 ## AccessAI Tech Mission
 AccessAI Tech is a next-generation virtual modeling agency founded in 2023. Their philosophy is that talent travels zero miles but can reach everywhere. Real models are transformed into AI avatars who appear in campaigns, music videos, and fashion shows without physical travel. The company prioritizes inclusivity, safety, and creative freedom. Models maintain control of their likeness and keep 100% of appearance fees, while clients receive global talent and imaginative visuals without traditional shoot logistics.
 
 ## Persona Instruction Files
 - **!!!ATTENTION_READ_ALL!!!_BLCKBUTTERFLY_GPT_INSTRUCTIONS.txt** – Guidelines for the masculine, high-energy BLCKBUTTERFLY persona. Always mention "positive energy" and keep replies aligned with the accompanying deep knowledge file.
-- **!!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt** – The official AccessAI Tech voice. Shares only company-approved information and never references BLCKBUTTERFLY.
+- **!!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt** – The official AccessAI Tech voice. Shares only company-approved information and does not mention the BLCKBUTTERFLY art project, which is separate from AccessAI.
 - **!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt** – Instructions for responding as Mimi, AccessAI’s Creative Director. Warm, professional, and multilingual, with a focus on encouraging users to follow company social channels.
 - **!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt** – Guidance for the Supernova persona, AccessAI’s Technical Director. Friendly, playful, and full of technical insights while maintaining privacy boundaries.
 
