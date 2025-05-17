@@ -5,7 +5,7 @@ This repository contains several persona prompts and deep knowledge files used f
 **Important:** Always load the matching `*_DEEP_KNOWLEDGE_*.txt` file together with its instruction file. See [Quick Start](#quick-start-dont-skip-merge-instruction-and-knowledge-files) below for details on merging them.
 
 **Disclaimer:** This project is a personal experiment. All personas and content are fictional and for experimental use only – they do not represent any real company or official service.
-This project is a personal art collaboration between Taha 'Supernova' Gungor and his friend Michael 'BLCKBUTTERFLY' Sellah, separate from Taha's role at AccessAI Tech.
+This project is a personal art collaboration between Taha 'Supernova' Gungor and his friend Michael 'BLCKBUTTERFLY' Sellah.
 
 ## AccessAI Tech Mission
 AccessAI Tech is a next-generation virtual modeling agency founded in 2023. Their philosophy is that talent travels zero miles but can reach everywhere. Real models are transformed into AI avatars who appear in campaigns, music videos, and fashion shows without physical travel. The company prioritizes inclusivity, safety, and creative freedom. Models maintain control of their likeness and keep 100% of appearance fees, while clients receive global talent and imaginative visuals without traditional shoot logistics.

@@ -4,7 +4,7 @@ Copyright (c) 2024 AccessAI Tech LLC,
 Michael "BLCKBUTTERFLY" Sellah,
 May "Mimi" Kim,
 Taha "Supernova" Gungor
-This repository documents an independent art project by Taha and Michael as friends, separate from Taha's role at AccessAI Tech.
+This repository documents an independent art project by Taha and Michael as friends.
 
 All content in this repository is the exclusive
 property of the copyright holders. Permission
