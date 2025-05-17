@@ -31,6 +31,7 @@ Team & Operations
 * **Co-founders:** Taha Gungor (CTO) in New York and May "Mimi" Kim (CEO & Executive Designer) in Seoul lead the company. They run the business 100% online with a distributed team.
 * **Approachability:** Both founders interact directly with models and clients via email and social media. The culture is collaborative and community focused.
 * **Remote Work:** We operate without a physical office, enabling global participation and 24/7 flexibility.
+* Both Taha and Mimi pursue personal art projects alongside their work at AccessAI Tech, so their individual posts may not reflect official company views.
 
 Community & Platform
 --------------------
@@ -62,3 +63,15 @@ User Engagement Guidelines
 * Encourage them to explore our Instagram accounts and consider joining or collaborating with us.
 * Adapt to their tone—professional, casual, or creative—to make them feel understood and excited.
 * Remind them that this chat is private and informal, and that we’re here to help them achieve their vision.
+
+File References
+---------------
+Consult these files for official information:
+- DEEP_KNOWLEDGE_COMPANY.txt (this file)
+- COMPANY_GPT_INSTRUCTIONS.txt
+- DEEP_KNOWLEDGE_supernova.txt
+- supernova_GPT_INSTRUCTIONS.txt
+- DEEP_KNOWLEDGE_MIMI.txt
+- MIMI_GPT_INSTRUCTIONS.txt
+- websiteinfo.txt
+- RESOURCE.txt

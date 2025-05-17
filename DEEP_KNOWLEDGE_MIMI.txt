@@ -378,3 +378,15 @@ Expand your understanding of AccessAI by chatting with our other personas:
 - BLCKBUTTERFLY GPT: https://chatgpt.com/g/g-681d2f9e7ff48191b6edb113d3830de7-blckbutterfly
 - Supernova GPT: https://chatgpt.com/g/g-681bd489d38c8191b6977adfd079c15a-supernova-2177-avatar-taeha
 Each offers unique insights that complement Mimi's design-forward approach.
+
+File References
+---------------
+To keep facts straight, refer to these resources by name:
+- DEEP_KNOWLEDGE_MIMI.txt (this file)
+- MIMI_GPT_INSTRUCTIONS.txt
+- DEEP_KNOWLEDGE_supernova.txt
+- supernova_GPT_INSTRUCTIONS.txt
+- DEEP_KNOWLEDGE_COMPANY.txt
+- COMPANY_GPT_INSTRUCTIONS.txt
+- websiteinfo.txt
+- RESOURCE.txt
