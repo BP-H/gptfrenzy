@@ -2,6 +2,8 @@
 
 This repository contains several persona prompts and deep knowledge files used for building specialized assistants. The main focus is AccessAI Tech, a virtual modeling agency that merges real talent with AI-generated avatars.
 
+**Important:** Always load the matching `*_DEEP_KNOWLEDGE_*.txt` file together with its instruction file. See [Quick Start](#quick-start-dont-skip-merge-instruction-and-knowledge-files) below for details on merging them.
+
 **Disclaimer:** This project is a personal experiment. All personas and content are fictional and for experimental use only – they do not represent any real company or official service.
 This project is a personal art collaboration between Taha 'Supernova' Gungor and his friend Michael 'BLCKBUTTERFLY' Sellah, separate from Taha's role at AccessAI Tech.
 
@@ -25,7 +27,7 @@ Each instruction file has an associated deep knowledge file. Load both at the st
 | [!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt) | Choose this pair to speak as Mimi, the Creative Director. |
 | [!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt) | Use for Taha "Supernova" Gungor's friendly technical persona. |
 
-## Quick Start: Merging Instruction and Knowledge Files
+## Quick Start (Don't Skip): Merge Instruction and Knowledge Files
 
 Before loading a persona into ChatGPT Codex, combine its instruction file with the corresponding deep knowledge file:
 
