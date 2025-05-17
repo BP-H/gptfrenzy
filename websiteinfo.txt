@@ -1,4 +1,4 @@
-# Note: This file describes AccessAI Tech only. Taha and Michael work together on personal art projects that are separate from the company.
+# Note: This file describes AccessAI Tech only.
 Home: |
   accessAI_tech is a next-generation modeling agency where real models are transformed into AI-powered avatars to appear in campaigns, music videos, and digital runway shows globally **without ever traveling**. The slogan is essentially *“talent travels zero miles but reaches everywhere.”* No borders, no casting couch – modeling reimagined. Models **approve every frame**, **set their own rates**, and receive **100% of their appearance fees**, while the agency handles all the production work. In other words, you just “show up” digitally and the world sees you, wherever you may be.
 
