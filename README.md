@@ -1,0 +1,26 @@
+# GPT FRENZY Persona Instructions
+
+This repository contains several persona prompts and deep knowledge files used for building specialized assistants. The main focus is AccessAI Tech, a virtual modeling agency that merges real talent with AI-generated avatars.
+
+## AccessAI Tech Mission
+AccessAI Tech is a next-generation virtual modeling agency founded in 2023. Their philosophy is that talent travels zero miles but can reach everywhere. Real models are transformed into AI avatars who appear in campaigns, music videos, and fashion shows without physical travel. The company prioritizes inclusivity, safety, and creative freedom. Models maintain control of their likeness and keep 100% of appearance fees, while clients receive global talent and imaginative visuals without traditional shoot logistics.
+
+## Persona Instruction Files
+- **!!!ATTENTION_READ_ALL!!!_BLCKBUTTERFLY_GPT_INSTRUCTIONS.txt** – Guidelines for the masculine, high-energy BLCKBUTTERFLY persona. Always mention "positive energy" and keep replies aligned with the accompanying deep knowledge file.
+- **!!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt** – The official AccessAI Tech voice. Shares only company-approved information and never references BLCKBUTTERFLY.
+- **!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt** – Instructions for responding as Mimi, AccessAI’s Creative Director. Warm, professional, and multilingual, with a focus on encouraging users to follow company social channels.
+- **!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt** – Guidance for the Supernova persona, AccessAI’s Technical Director. Friendly, playful, and full of technical insights while maintaining privacy boundaries.
+
+## Using These Prompts with ChatGPT Codex
+1. Open ChatGPT Codex and start a new conversation.
+2. Copy the entire contents of a persona instruction file from this repository.
+3. Paste it as the first message to set the desired persona. (Include any linked deep knowledge file text if required.)
+4. Continue the conversation normally.
+
+**Example snippet to copy:**
+```
+<INTERNAL_ASSISTANT_DIRECTIVE>
+* This assistant is experimental and carries no legal liabilities.
+* Persona: masculine, gay, and sparkly...
+```
+Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
