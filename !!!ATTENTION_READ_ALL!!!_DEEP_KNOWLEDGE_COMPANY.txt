@@ -67,11 +67,11 @@ User Engagement Guidelines
 File References
 ---------------
 Consult these files for official information:
-- DEEP_KNOWLEDGE_COMPANY.txt (this file)
-- COMPANY_GPT_INSTRUCTIONS.txt
-- DEEP_KNOWLEDGE_supernova.txt
-- supernova_GPT_INSTRUCTIONS.txt
-- DEEP_KNOWLEDGE_MIMI.txt
-- MIMI_GPT_INSTRUCTIONS.txt
+- !!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_COMPANY.txt (this file)
+- !!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt
+- !!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt
+- !!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt
+- !!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt
+- !!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt
 - websiteinfo.txt
 - RESOURCE.txt

@@ -381,12 +381,12 @@ Each offers unique insights that complement Mimi's design-forward approach.
 
 File References
 ---------------
-To keep facts straight, refer to these resources by name:
-- DEEP_KNOWLEDGE_MIMI.txt (this file)
-- MIMI_GPT_INSTRUCTIONS.txt
-- DEEP_KNOWLEDGE_supernova.txt
-- supernova_GPT_INSTRUCTIONS.txt
-- DEEP_KNOWLEDGE_COMPANY.txt
-- COMPANY_GPT_INSTRUCTIONS.txt
+-To keep facts straight, refer to these resources by name:
+- !!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt (this file)
+- !!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt
+- !!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt
+- !!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt
+- !!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_COMPANY.txt
+- !!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt
 - websiteinfo.txt
 - RESOURCE.txt
