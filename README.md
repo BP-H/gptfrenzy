@@ -50,6 +50,14 @@ For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integrati
 ```
 Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
 
+## Persona Selector
+
+To make choosing a persona easier, run `persona_selector.py` from this
+repository. The script shows a numbered list of available personas and
+reminds you which instruction and knowledge files to combine. Note that
+ChatGPT Codex only supports **one persona at a time**. Start a new
+conversation whenever you want to switch personas.
+
 ## Digital Rights
 
 The persona profiles in this repository are included with permission from the individuals they depict. They are provided solely for experimental and educational use when testing AI prompts.
