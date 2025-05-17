@@ -22,6 +22,18 @@ Each instruction file has an associated deep knowledge file. Load both at the st
 | [!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt) | Choose this pair to speak as Mimi, the Creative Director. |
 | [!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt) | Use for Taha "Supernova" Gungor's friendly technical persona. |
 
+## Quick Start: Merging Instruction and Knowledge Files
+
+Before loading a persona into ChatGPT Codex, combine its instruction file with the corresponding deep knowledge file:
+
+1. Open the desired `*_GPT_INSTRUCTIONS.txt` in a text editor.
+2. Append the entire contents of the matching `*_DEEP_KNOWLEDGE_*.txt` directly below the instructions.
+3. Remove extra blank lines or repeated sections so the merged file stays concise.
+4. Make sure the final text remains under **50&nbsp;KB** for smooth Codex uploads.
+5. Save the combined text as a new file ready to upload.
+
+For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integration.md).
+
 ## Using These Prompts with ChatGPT Codex
 1. Open ChatGPT Codex and start a new conversation.
 2. Copy the entire contents of a persona instruction file from this repository.
