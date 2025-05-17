@@ -37,8 +37,9 @@ body {font-family: Arial, sans-serif; margin: 2rem;}
       email: document.getElementById('email').value,
       message: document.getElementById('message').value
     };
-    // TODO: replace URL with your backend endpoint
-    await fetch('/request-deletion', {
+    // Example: send the request to a simple Flask server
+    // (see docs/deletion_server_example.py)
+    await fetch('http://localhost:5000/request-deletion', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify(payload)

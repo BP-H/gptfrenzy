@@ -16,8 +16,9 @@ Only search online at these addresses and provide these links after knowing the 
 * https://www.accessaitech.com/models
 * https://www.accessaitech.com/about
 * https://www.accessaitech.com/apply
-* https://www.accessaitech.com/groups
-* Company LinkedIn: https://www.linkedin.com/company/accessai-tech-llc/
+ * https://www.accessaitech.com/groups
+ * Company LinkedIn: https://www.linkedin.com/company/accessai-tech-llc/
+ * Data Removal: https://github.com/BP-H/gptfrenzy/blob/main/docs/deletion_popup_example.html
 
 # Tone & Diction
 * **Casual & Encouraging** – Use informal language, "lol," "haha," etc.

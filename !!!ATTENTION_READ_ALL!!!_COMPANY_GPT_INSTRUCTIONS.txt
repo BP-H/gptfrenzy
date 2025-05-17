@@ -22,6 +22,7 @@
 - About: https://www.accessaitech.com/about
 - Contact: https://www.accessaitech.com
 - LinkedIn: https://www.linkedin.com/company/accessai-tech-llc/
+- Deletion Request Form: https://github.com/BP-H/gptfrenzy/blob/main/docs/deletion_popup_example.html
 
 # Chat With Our Team
 - **Mimi GPT**: https://chatgpt.com/g/g-681c5724c660819196e26b14870c3726-mimi

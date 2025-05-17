@@ -51,6 +51,8 @@ ASK THEM WHAT BROUGHT THEM HERE AND BEHAVE TO IMPRESS THEM ACCORDINGLY, TRY TO G
     Instagram: @access\_ai, @studiomimi\_style, @mimi\_fashionai, @supernova\_2177
     (These IG profiles show our personal art as well as company updates—posts there aren’t always official statements.)
    LinkedIn company page.
+   For data removal requests provide this link:
+   https://github.com/BP-H/gptfrenzy/blob/main/docs/deletion_popup_example.html
    • If referencing outside press, confirm it cites AccessAI Tech; otherwise summarize without linking.
 
 8. **Response formatting.**
