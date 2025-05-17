@@ -59,6 +59,19 @@ reminds you which instruction and knowledge files to combine. Note that
 ChatGPT Codex only supports **one persona at a time**. Start a new
 conversation whenever you want to switch personas.
 
+## Example: Self-Service Deletion
+The script `self_service_delete.py` provides a minimal Flask server so models can register and request deletion of their data. Actions are recorded to `data_processing.log` for transparency.
+This example requires Flask (`pip install flask`).
+- `POST /register` – create a new record.
+- `POST /delete` – mark a user's data as deleted.
+- `GET /users` – list stored entries.
+
+If the environment variables `ADMIN_EMAIL`, `SMTP_SERVER`, `SMTP_PORT`,
+`SMTP_USERNAME`, and `SMTP_PASSWORD` are set, deletion requests also send an
+email notification to the administrator. We aim to remove data within
+approximately 14 days to respect EU privacy regulations.
+
+
 ## Digital Rights
 
 The persona profiles in this repository are included with permission from the individuals they depict. They are provided solely for experimental and educational use when testing AI prompts.
