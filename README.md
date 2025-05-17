@@ -65,4 +65,6 @@ The persona profiles in this repository are included with permission from the in
 
 No private information is included, and all generated responses should be considered fictional. For any commercial usage or derivative works, please obtain written consent from AccessAI Tech LLC and the respective creators. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
 
+We keep a simple data-processing log and offer a self-service deletion tool so models can remove their photos and trained avatars at any time. See [privacy-policy.md](privacy-policy.md) for details.
+
 Licensed under the MIT License.

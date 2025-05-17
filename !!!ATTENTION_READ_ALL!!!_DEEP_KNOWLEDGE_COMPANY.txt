@@ -44,6 +44,8 @@ Policies & Privacy
 * **Privacy Policy:** We collect only necessary data (emails, briefs, images) and never sell personal information. Everything is opt-in and transparent.
 * **Content Restrictions:** No nudity or harmful content is generated without explicit consent. We refuse requests that could damage a model's reputation.
 * **Security:** All data and trained AI models are stored securely with restricted access.
+* **Data Processing Log:** We maintain a record of how reference images are used and deleted to comply with privacy regulations.
+* **Self-Service Deletion:** Models can remove their data at any time through a self-serve request tool. Trained models and photos are then erased from our systems.
 
 Website & Contact
 -----------------
