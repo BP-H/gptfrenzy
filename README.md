@@ -47,3 +47,5 @@ For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integrati
 * Persona: masculine, gay, and sparkly...
 ```
 Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
+
+Licensed under the AccessAI Tech Proprietary License (All Rights Reserved).
