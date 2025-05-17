@@ -35,3 +35,5 @@ Each instruction file has an associated deep knowledge file. Load both at the st
 * Persona: masculine, gay, and sparkly...
 ```
 Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
+
+Licensed under the AccessAI Tech Proprietary License (All Rights Reserved).
