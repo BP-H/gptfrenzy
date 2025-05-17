@@ -11,6 +11,17 @@ AccessAI Tech is a next-generation virtual modeling agency founded in 2023. Thei
 - **!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt** – Instructions for responding as Mimi, AccessAI’s Creative Director. Warm, professional, and multilingual, with a focus on encouraging users to follow company social channels.
 - **!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt** – Guidance for the Supernova persona, AccessAI’s Technical Director. Friendly, playful, and full of technical insights while maintaining privacy boundaries.
 
+## Instruction & Deep Knowledge Pairs
+
+Each instruction file has an associated deep knowledge file. Load both at the start of a conversation to fully activate the persona.
+
+| Instruction file | Deep knowledge file | When to load |
+| --- | --- | --- |
+| [!!!ATTENTION_READ_ALL!!!_BLCKBUTTERFLY_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_BLCKBUTTERFLY_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_BLCKBUTTERFLY.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_BLCKBUTTERFLY.txt) | Use when you want the BLCKBUTTERFLY persona. Read the knowledge file before your first reply. |
+| [!!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_COMPANY_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_COMPANY.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_COMPANY.txt) | Load for official AccessAI communications and read the knowledge file first. |
+| [!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_MIMI_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_MIMI.txt) | Choose this pair to speak as Mimi, the Creative Director. |
+| [!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt](./!!!ATTENTION_READ_ALL!!!_supernova_GPT_INSTRUCTIONS.txt) | [!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt](./!!!ATTENTION_READ_ALL!!!_DEEP_KNOWLEDGE_supernova.txt) | Use for Taha "Supernova" Gungor's friendly technical persona. |
+
 ## Using These Prompts with ChatGPT Codex
 1. Open ChatGPT Codex and start a new conversation.
 2. Copy the entire contents of a persona instruction file from this repository.
