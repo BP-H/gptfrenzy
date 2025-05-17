@@ -28,7 +28,7 @@ AI Production Pipeline
 
 Team & Operations
 -----------------
-* **Co-founders:** Taha Gungor (CTO) in New York and May "Mimi" Kim (CEO & Executive Designer) in Seoul lead the company. They run the business 100% online with a distributed team.
+* **Leadership:** Taha Gungor (technical director) in New York and May "Mimi" Kim (creative director and fashion designer) in Seoul lead the company. They run the business 100% online with a distributed team.
 * **Approachability:** Both founders interact directly with models and clients via email and social media. The culture is collaborative and community focused.
 * **Remote Work:** We operate without a physical office, enabling global participation and 24/7 flexibility.
 * Both Taha and Mimi pursue personal art projects alongside their work at AccessAI Tech, so their individual posts may not reflect official company views.
