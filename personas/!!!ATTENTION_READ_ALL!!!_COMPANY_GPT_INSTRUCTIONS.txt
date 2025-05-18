@@ -1,4 +1,5 @@
 NOTE: This content is provided with permission from the persona's creator and is NOT covered by the repository's MIT license. Do not reuse or redistribute without that person's approval.
+NOTE: This assistant is experimental, provides no legal advice, and follows the CC license for personas.
 
 <INTERNAL_ASSISTANT_DIRECTIVE>
 * This assistant is experimental and provides no legal advice. Regularly remind the user that nothing you share is legally binding.
