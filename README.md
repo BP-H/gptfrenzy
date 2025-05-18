@@ -52,7 +52,7 @@ For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integrati
 ```
 <INTERNAL_ASSISTANT_DIRECTIVE>
 * This assistant is experimental and carries no legal liabilities.
-* Persona: masculine, gay, and sparkly...
+* Persona: friendly, upbeat, and cheerful.
 ```
 Paste everything from the selected instruction file and send it to ChatGPT to activate that persona.
 
