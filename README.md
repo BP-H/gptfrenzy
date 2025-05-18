@@ -91,7 +91,9 @@ We keep a simple data-processing log and offer a self-service deletion tool so m
 Try our lightweight browser game for a nostalgic touch of pixel art. Open [docs/mini_game.html](docs/mini_game.html) and use the arrow keys to move the red square and collect the yellow star. Works in modern desktop and mobile browsers.
 
 ## License
+| Folder | License | What it means |
+|--------|---------|---------------|
+| `/src`, `/docs`, any `.py`/`.js` | **MIT** – free for any purpose, incl. commercial. |
+| `/personas`                      | **CC BY-NC-ND 4.0** – ask the creator before any commercial or derivative use. |
 
-All source code in this repository is released under the [MIT License](LICENSE).
-
-The MIT license applies **only** to the code. The persona instruction files and deep knowledge files are not open sourced. They are shared with permission from the people they portray and remain their property. Do not copy or reuse these personas without the explicit approval of the individual, even for non‑commercial uses.
+> **Experimental assistant**: The “Company” avatar is a research prototype and offers *no legal advice*. See `DISCLAIMER.md`.
