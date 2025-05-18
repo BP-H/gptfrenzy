@@ -80,6 +80,8 @@ If the game does not load inside the frame due to GitHub restrictions, use the l
 
 The persona profiles in this repository are included with permission from the individuals they depict. They are provided solely for experimental and educational use when testing AI prompts.
 
+Each persona remains the personal property of the person who inspired it. Do not reuse, redistribute, or create derivative works from these personas without explicit permission from the respective individual, even for non‑commercial projects, as far as legally possible.
+
 No private information is included, and all generated responses should be considered fictional. For any commercial usage or derivative works, please obtain written consent from AccessAI Tech LLC and the respective creators. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
 
 We keep a simple data-processing log and offer a self-service deletion tool so models can remove their photos and trained avatars at any time. See [privacy-policy.md](privacy-policy.md) for details. An example popup form for requesting deletion is provided in [docs/deletion_popup_example.html](docs/deletion_popup_example.html). You can link to this page from a custom GPT assistant or embed the snippet in your own site.
@@ -92,4 +94,4 @@ Try our lightweight browser game for a nostalgic touch of pixel art. Open [docs/
 
 All source code in this repository is released under the [MIT License](LICENSE).
 
-The persona instruction files and deep knowledge files are provided with permission from the individuals portrayed. They may be used for non-commercial purposes only unless you obtain explicit permission from the respective creators.
+The MIT license applies **only** to the code. The persona instruction files and deep knowledge files are not open sourced. They are shared with permission from the people they portray and remain their property. Do not copy or reuse these personas without the explicit approval of the individual, even for non‑commercial uses.
