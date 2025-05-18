@@ -32,18 +32,18 @@ Each instruction file has an associated deep knowledge file. Load both at the st
 
 ## Quick Start (Don't Skip): Merge Instruction and Knowledge Files
 
-Before loading a persona into ChatGPT Codex, combine its instruction file with the corresponding deep knowledge file:
+Before loading a persona into ChatGPT, combine its instruction file with the corresponding deep knowledge file:
 
 1. Open the desired `*_GPT_INSTRUCTIONS.txt` in a text editor.
 2. Append the entire contents of the matching `*_DEEP_KNOWLEDGE_*.txt` directly below the instructions.
 3. Remove extra blank lines or repeated sections so the merged file stays concise.
-4. Make sure the final text remains under **50&nbsp;KB** for smooth Codex uploads.
+4. Make sure the final text remains under **50&nbsp;KB** for smooth uploads.
 5. Save the combined text as a new file ready to upload.
 
 For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integration.md).
 
-## Using These Prompts with ChatGPT Codex
-1. Open ChatGPT Codex and start a new conversation.
+## Using These Prompts with ChatGPT
+1. Open ChatGPT and start a new conversation.
 2. Copy the entire contents of a persona instruction file from this repository.
 3. Paste it as the first message to set the desired persona. (Include any linked deep knowledge file text if required.)
 4. Continue the conversation normally.
@@ -54,14 +54,14 @@ For a detailed walkthrough, see [docs/codex_integration.md](docs/codex_integrati
 * This assistant is experimental and carries no legal liabilities.
 * Persona: masculine, gay, and sparkly...
 ```
-Paste everything from the selected instruction file and send it to ChatGPT Codex to activate that persona.
+Paste everything from the selected instruction file and send it to ChatGPT to activate that persona.
 
 ## Persona Selector
 
 To make choosing a persona easier, run `persona_selector.py` from this
 repository. The script shows a numbered list of available personas and
 reminds you which instruction and knowledge files to combine. Note that
-ChatGPT Codex only supports **one persona at a time**. Start a new
+ChatGPT only supports **one persona at a time**. Start a new
 conversation whenever you want to switch personas.
 ## Play the Mini Game
 
